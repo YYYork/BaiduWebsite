@@ -1,2 +1,3 @@
 # BaiduWebsite
-A Baidu Website!
+***我模仿了百度做了个界面***
+~~其实是交书上的作业了啦~~
